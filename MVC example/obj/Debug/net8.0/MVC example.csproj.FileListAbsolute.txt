@@ -1,0 +1,27 @@
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.AssemblyInfoInputs.cache
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.AssemblyInfo.cs
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.RazorAssemblyInfo.cache
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.RazorAssemblyInfo.cs
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\appsettings.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\MVC example.exe
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\MVC example.deps.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\MVC example.runtimeconfig.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\MVC example.dll
+C:\Users\ELViN\source\repos\MVC example\MVC example\bin\Debug\net8.0\MVC example.pdb
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets\msbuild.MVC example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC example.props
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC example.props
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC example.props
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\scopedcss\bundle\MVC example.styles.css
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.dll
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\refint\MVC example.dll
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.pdb
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\MVC example.genruntimeconfig.cache
+C:\Users\ELViN\source\repos\MVC example\MVC example\obj\Debug\net8.0\ref\MVC example.dll
